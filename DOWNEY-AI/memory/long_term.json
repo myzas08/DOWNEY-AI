@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "assistant_name": {
+      "value": "Downy",
+      "updated": "2026-06-17"
+    }
+  },
+  "preferences": {
+    "browser_preference": {
+      "value": "Google Chrome",
+      "updated": "2026-06-17"
+    },
+    "plays_games": {
+      "value": "false",
+      "updated": "2026-06-17"
+    },
+    "browser_mode": {
+      "value": "normal",
+      "updated": "2026-06-17"
+    }
+  },
+  "projects": {},
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "user_sentiment": {
+      "value": "proud of assistant",
+      "updated": "2026-06-17"
+    }
+  }
+}
